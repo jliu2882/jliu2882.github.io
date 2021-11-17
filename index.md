@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        <title>File Upload</title>
+        <title>File Upload Test</title>
     </head>
     <body>
         <form action="/action_page.php">
