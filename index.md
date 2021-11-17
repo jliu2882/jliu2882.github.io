@@ -4,6 +4,6 @@
         <title>File Upload</title>
     </head>
     <body>
-        <input type="file">
+        <input type="submit">
     </body>
 </html>
