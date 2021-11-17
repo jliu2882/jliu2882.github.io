@@ -2,7 +2,7 @@
 <html>
 <body>
 
-<p>Click on the "Choose File" button to upload a file:</p>
+<p>Click on the "Choose File" button to upload a file!</p>
 
 <form action="/">
   <input type="file" id="myFile" name="filename">
